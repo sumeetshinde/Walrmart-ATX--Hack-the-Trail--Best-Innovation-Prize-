@@ -1,9 +1,13 @@
 Problem Statement
 
 Forecasting Trail Traffic
-The Austin Parks department has time series data on foot and bike traffic on a trail near downtown Austin. This data is influenced by a number of conditions, including weather, time of year, day of week, major and minor events, openings of new 
-business and event spaces, and other more difficult-to-predict events and trends. Using historical data, participants will attempt to develop models that capture these sources of variability in the data and forecast future expected traffic on various locations 
-within the trails. This should include models, statistics, visualizations, and, potentially, interfacing components to allow models to be retrained and/or queried.
+The Austin Parks department has time series data on foot and bike traffic on a trail near downtown Austin. This data is influenced 
+by a number of conditions, including weather, time of year, day of week, major and minor events, openings of new business and event 
+spaces, and other more difficult-to-predict events and trends. Using historical data, participants will attempt to develop models 
+that capture these sources of variability in the data and forecast future expected traffic on various locations within the trails. 
+This should include models, statistics, visualizations, and, potentially, interfacing components to allow models to be retrained 
+and/or queried.
 
-We won the Best Innovation Prize for developing a heuristic based manpower hiring strategy model along with models for short and long term forecast.
+We won the Best Innovation Prize for developing a heuristic based manpower hiring strategy model along with models for short and long 
+term forecast.
 
